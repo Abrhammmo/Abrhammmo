@@ -14,7 +14,7 @@ I have several projects in my repositories that reflect my enthusiasm for **mach
 
 ⭐ **Favorite Project:**
 
-* **Solar Challenge – Week 0**
+* **Solar Challenge – Week 0 -(https://github.com/Abrhammmo/solar-challenge-week0.git)**
 
   * This project helped me deeply understand the **basics of data exploration and EDA (Exploratory Data Analysis)**.
   * It strengthened my skills in data cleaning, visualization, and extracting insights from raw datasets.
